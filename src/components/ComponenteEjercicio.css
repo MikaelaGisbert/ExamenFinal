@@ -1,0 +1,34 @@
+.ContenedorEjercicio{
+    background-color: rgb(45, 46, 46);
+    height: 83px;
+    width: 364px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.ContenedorTexto{
+    height: 63px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.TituloEjercicio{
+    font-size: 20px;
+    color: white;
+}
+
+.IndicadionEjercicio{
+    font-size: 12px;
+    color: white;
+}
+
+.boton{
+    background-color: transparent;
+}
